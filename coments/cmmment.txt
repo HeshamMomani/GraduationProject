@@ -1,0 +1,9 @@
+picture = models.ImageField(upload_to='service_pictures', default='default_image.jpg')
+
+    domain = ('Abdoun','Al-Abdali','Al-Jubeiha','Al-Madina Al-Munawara Street',
+
+              'Al-Rabieh','Al-Sweifieh','Dabouq','Gardens Street','Jabal Al-Hussein'
+
+              ,'Jabal Amman','Khalda','Shmeisani','Tlaa Al-Ali','Um Uthaina','Wadi Al-Seer','Yajouz '
+
+              )
